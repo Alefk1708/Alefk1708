@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre mim
 
-=> Sou curioso por natureza e sempre busco aprender novas tecnologias.
-=> Adoro resolver problemas e ver um projeto sair do zero até o deploy final.
-=> Atualmente estudo C e estou aprimorando meus conhecimentos em back-end.
+=> Sou curioso por natureza e sempre busco aprender novas tecnologias. <br/>
+=> Adoro resolver problemas e ver um projeto sair do zero até o deploy final. <br/>
+=> Atualmente estudo C e estou aprimorando meus conhecimentos em back-end. <br/>
 
 ## 🧰 Tecnologias que domino
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
