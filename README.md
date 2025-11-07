@@ -16,7 +16,7 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
     <img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:kaiquealef42@gmail.com" target="_blank">
+  <a href="mailto:kaiquealef42@gmail.com" target="_blank" background='white'>
     <img src="https://www.svgrepo.com/show/498800/email.svg" width="40" height="40" alt="Email" />
   </a>
 </p>
