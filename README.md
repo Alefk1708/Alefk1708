@@ -17,7 +17,7 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kaiquealef42@gmail.com" target="_blank" background='white'>
-    <img src="https://www.svgrepo.com/show/498800/email.svg" width="40" height="40" alt="Email" />
+    <img src="https://img.icons8.com/color-pixels/1200/gmail-new.jpg" width="40" height="40" alt="Email" />
   </a>
 </p>
 
