@@ -1,5 +1,6 @@
 ## 👋 Olá, eu sou o Alef!
-Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foco em performance e experiência do usuário.
+Desenvolvedor júnior focado em construir interfaces limpas, rápidas e intuitivas.
+Gosto de transformar ideias em aplicações funcionais e de deixar cada detalhe mais eficiente a cada linha de código.
 
 ## 🧠 Tecnologias que domino
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
