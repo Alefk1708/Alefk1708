@@ -1,8 +1,8 @@
 ## Desenvolvedor Full Stack Júnior
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=27&duration=4000&pause=2000&color=F7F1F2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Kaique+Alef!)](https://git.io/typing-svg)
-=> Desenvolvedor júnior focado em construir interfaces limpas, rápidas e intuitivas.
-=> Gosto de transformar ideias em aplicações funcionais e de deixar cada detalhe mais eficiente a cada linha de código.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=27&duration=4000&pause=2000&color=F7F1F2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Kaique+Alef!)](https://git.io/typing-svg) <br/>
+=> Desenvolvedor júnior focado em construir interfaces limpas, rápidas e intuitivas. <br/>
+=> Gosto de transformar ideias em aplicações funcionais e de deixar cada detalhe mais eficiente a cada linha de código. <br/>
 
 ## 🧠 Tecnologias que domino
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
