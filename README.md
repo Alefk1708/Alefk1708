@@ -23,7 +23,7 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
 
 
 <details>
-  <summary>#🎮 Curiosidades</summary>
+  <summary>🎮 Curiosidades</summary>
   - Amo café ☕  
   - Sempre refatorando código antigo
 </details>
