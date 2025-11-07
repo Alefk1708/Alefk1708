@@ -36,7 +36,7 @@
 
 <details>
   <summary>🎮 Curiosidades</summary>
-  - Amo café ☕  
-  - Sempre refatorando código antigo
+  - Amo café ☕  <br/>
+  - Sempre refatorando código antigo <br/>
 </details>
 
