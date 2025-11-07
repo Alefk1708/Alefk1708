@@ -13,15 +13,11 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaique-alef-a86450207" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kaiquealef42@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kaiquealef.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfólio" />
+    <img src="https://www.svgrepo.com/show/498800/email.svg" width="40" height="40" alt="Email" />
   </a>
 </p>
 
