@@ -11,12 +11,14 @@
 => Adoro resolver problemas e ver um projeto sair do zero até o deploy final. <br/>
 => Atualmente estudo C e estou aprimorando meus conhecimentos em back-end. <br/>
 
-## 🧰 Tecnologias que domino
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
 
 ## 📊 Estatísticas
 ![Alef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alefk1708&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefk1708&layout=compact&theme=tokyonight)
+
+
+## 🧰 Tecnologias que domino
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
 
 
 ## 🌐 Onde me encontrar
