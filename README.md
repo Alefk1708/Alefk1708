@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&pause=1000&color=F7F1F2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kaique+Alef!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=800&size=28&duration=4000&pause=2000&color=F7F1F2&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kaique+Alef!)](https://git.io/typing-svg)
 Desenvolvedor júnior focado em construir interfaces limpas, rápidas e intuitivas.
 Gosto de transformar ideias em aplicações funcionais e de deixar cada detalhe mais eficiente a cada linha de código.
 
