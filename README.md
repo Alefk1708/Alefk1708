@@ -10,8 +10,21 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
 
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alef-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/teuuser)
-[![Email](https://img.shields.io/badge/Email-alef@example.com-red?style=flat&logo=gmail)](mailto:alef@example.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaique-alef-a86450207" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kaiquealef42@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaiquealef.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfólio" />
+  </a>
+</p>
+
 
 <details>
   <summary>🎮 Curiosidades</summary>
