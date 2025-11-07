@@ -5,8 +5,18 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,python,fastapi,supabase,tailwind,git,github,vscode)
 
 ## 📊 Estatísticas
-![Alef's GitHub stats](https://github-readme-stats.vercel.app/api?username=teuuser&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuuser&layout=compact&theme=tokyonight)
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200&theme=tokyonight"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&langs_count=8&card_width=320&cache_seconds=7200&theme=tokyonight"
+    alt="Top Langs"
+    height="165"
+  />
+</p>
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alef-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/teuuser)
@@ -15,7 +25,6 @@ Sou desenvolvedor júnior apaixonado por criar aplicações web modernas com foc
 <details>
   <summary>🎮 Curiosidades</summary>
   - Amo café ☕  
-  - Sempre refatorando código antigo  
-  - Tenho um gato que pisa no teclado e comita por mim 😹
+  - Sempre refatorando código antigo
 </details>
 
