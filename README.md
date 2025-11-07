@@ -1,17 +1,17 @@
-## Desenvolvedor Full Stack Júnior
+## 🧠 Desenvolvedor Full Stack Júnior
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=27&duration=4000&pause=2000&color=F7F1F2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Kaique+Alef!)](https://git.io/typing-svg) <br/>
 => Desenvolvedor júnior focado em construir interfaces limpas, rápidas e intuitivas. <br/>
 => Gosto de transformar ideias em aplicações funcionais e de deixar cada detalhe mais eficiente a cada linha de código. <br/>
 => Tenho experiência real em desenvolvimento web atuando como freelancer. <br/>
 
-## Sobre mim
+## 🚀 Sobre mim
 
 => Sou curioso por natureza e sempre busco aprender novas tecnologias.
 => Adoro resolver problemas e ver um projeto sair do zero até o deploy final.
 => Atualmente estudo C e estou aprimorando meus conhecimentos em back-end.
 
-## 🧠 Tecnologias que domino
+## 🧰 Tecnologias que domino
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vuejs,nodejs,express,python,fastapi,supabase,mongodb,tailwind,git,github,vscode)
 
 ## 📊 Estatísticas
