@@ -29,7 +29,7 @@ Atualmente sigo aprofundando meus conhecimentos em **backend** e arquitetura de 
 ---
 
 ## 🌐 Onde me encontrar
-<p align="center">
+<p align="center" display: flex>
   <a href="https://www.linkedin.com/in/kaique-alef-a86450207" target="_blank">
     <img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" width="40" height="40" alt="LinkedIn" />
   </a>
